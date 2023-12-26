@@ -1,7 +1,7 @@
 # Bingo_Game_Java
 Bingo Game using java programming language
 
-YJava program implements a console-based Bingo game where a player competes against a computer opponent (CPU). Below is an overview of the key components and functionalities of program:
+Java program implements a console-based Bingo game where a player competes against a computer opponent (CPU). Below is an overview of the key components and functionalities of program:
 
 Board Initialization:
 
